@@ -3,7 +3,9 @@
 Welcome to **DecentraX**, a fully decentralized crowdfunding platform built on the **Ethereum blockchain**.  
 This dApp empowers individuals to raise funds transparently and securely, without third-party interference.
 
-> 🎯 “Empowering creators and communities with blockchain transparency.”  
+> 
+![Crowdfunding dApp UI](https://raw.githubusercontent.com/anishsingh90/1-Decentralised-CrowdFunding-Projects-dApps-/c590ed316b5afd4bf1641c126de369e4260df52e/crowdfunding.png)
+ 
 
 ---
 
