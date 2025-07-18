@@ -38,7 +38,7 @@ This dApp empowers individuals to raise funds transparently and securely, withou
 | 💻 Frontend       | React.js                         |
 | ⚙️ Smart Contracts | Solidity                         |
 | 🔗 Blockchain     | Ethereum (EVM)                   |
-| 🧰 Integration     | Web3.js + Thirdweb SDK           |
+| 🧰 Integration     | Ethers.js + Thirdweb SDK           |
 | 👛 Wallets        | MetaMask, WalletConnect, Coinbase|
 
 ---
