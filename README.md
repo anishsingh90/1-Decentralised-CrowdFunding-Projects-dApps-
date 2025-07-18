@@ -1,5 +1,7 @@
 # 🌐 DecentraX — Decentralized Crowdfunding dApp 🚀
 
+https://decentraxfunding.netlify.app/ 
+
 **Welcome to **DecentraX**, a fully decentralized crowdfunding platform built on the **Ethereum blockchain**.  
 This dApp empowers individuals to raise funds transparently and securely, without third-party interference.**
 
