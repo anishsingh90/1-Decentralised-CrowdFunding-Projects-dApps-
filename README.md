@@ -1,109 +1,35 @@
 # 🌐 Crowdfunding Platform 🚀  
 
-Welcome to the **Crowdfunding Platform**, a decentralized application (**dApp**) built on the blockchain! 🛠️ This project is designed to empower project creators and contributors by providing a **secure**, **transparent**, and **trustless** fundraising experience. 💰✨  
+Welcome to the **Crowdfunding Platform**, a decentralized application (**dApp**) built on the Ethereum blockchain! 🛠️  
+This project empowers creators and contributors by enabling **secure**, **transparent**, and **trustless** fundraising experiences — without relying on third parties. 💰✨  
 
 ---
 
 ## ✨ Features  
 
-- 📢 **Launch Campaigns**: Start your fundraising journey with ease, setting goals and deadlines.  
-- 🔐 **Secure Transactions**: Your contributions are safe, thanks to blockchain-powered smart contracts.  
-- 👁️‍🗨️ **Transparent Fund Management**: Track funds in real-time and ensure ethical usage.  
-- 🏦 **Controlled Withdrawals**: Campaign owners can withdraw funds only under predefined conditions.  
-- 🕸️ **Decentralized System**: No middlemen – complete control and trustless operations.  
+- 📢 **Launch Campaigns**: Start your fundraising with a title, description, target amount, deadline, and image.  
+- 💸 **Contribute Seamlessly**: Support any campaign using ETH directly from your wallet (MetaMask, WalletConnect, etc).  
+- 👁️‍🗨️ **Transparent Fund Flow**: Real-time tracking of donations and contributor details on-chain.  
+- ⛓️ **Decentralized & Trustless**: No middlemen — funds are transferred directly to the campaign creator via smart contracts.  
+- 🔒 **Immutable Campaign Data**: Once created, campaign data is stored on-chain and cannot be altered.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- 🌟 **Frontend**: React.js (or your preferred framework)  
-- 💻 **Smart Contracts**: Solidity  
-- ⛓️ **Blockchain Network**: Ethereum (or compatible EVM-based chains)  
-- 🔧 **Development Tools**: Hardhat/Truffle  
-- 📦 **Storage**: IPFS (for storing project assets like images/docs)  
+| Layer           | Technology                        |
+|----------------|------------------------------------|
+| 🖥️ Frontend     | React.js                          |
+| ⚙️ Smart Contracts | Solidity (Ethereum)             |
+| 🔗 Integration  | Web3.js + Thirdweb SDK            |
+| 💼 Wallets      | MetaMask, WalletConnect, Coinbase |
+| 🧪 Tools        | Hardhat                           |
 
 ---
 
-## ⚙️ Installation and Setup  
+## ⚙️ Installation & Setup  
 
-1. Clone the repository:  
+1. 🚥 **Clone the repository**  
    ```bash
-   git clone https://github.com/anishsingh90/Decentralised-CrowdFunding-Projects-dApps-.git
-   cd crowdfunding-platform
-   ```  
-
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```  
-
-3. Compile the smart contracts:  
-   ```bash
-   npx hardhat compile
-   ```  
-
-4. Deploy the contracts:  
-   ```bash
-   npx hardhat run scripts/deploy.js --network <network-name>
-   ```  
-
-5. Start the development server:  
-   ```bash
-   npm start
-   ```  
-
----
-
-## 🎯 How to Use  
-
-1. **🚀 Launch Campaigns**: Create your crowdfunding campaign with a few clicks.  
-2. **🤝 Contribute**: Support campaigns securely via blockchain-based payments.  
-3. **📊 Track Progress**: Monitor campaign milestones and contributions.  
-4. **💸 Withdraw Funds**: Withdraw only when goals are met and conditions are satisfied.  
-
----
-
-## 🔍 Smart Contract Overview  
-
-- 🏭 **CampaignFactory**: Factory contract to create and manage multiple campaigns.  
-- 📜 **Campaign**: Handles individual campaign logic, including donations and withdrawals.  
-
----
-
-## 🤝 Contributing  
-
-We ❤️ contributions! Follow these steps to contribute:  
-
-1. Fork this repository.  
-2. Create a feature branch:  
-   ```bash
-   git checkout -b feature-name
-   ```  
-3. Commit your changes:  
-   ```bash
-   git commit -m "First Commit"
-   ```  
-4. Push your branch:  
-   ```bash
-   git push origin feature-name
-   ```  
-5. Submit a pull request.  
-
----
-
-## 📜 License  
-
-This project is licensed under the [MIT License](https://github.com/ethereum/solidity-examples/blob/master/LICENSE).  
-
----
-
-## 📬 Contact  
-
-Have questions or feedback? Reach out!  
-📧 **Email**: anishraaz90@gmail.com  
-🔗 **LinkedIn**: [Visit](https://www.linkedin.com/in/anish90)  
-🐦 **Twitter**: [Visit](https://x.com/AnishSingh9454)  
-
----
-
-💡 **Empowering creators, one block at a time!** 🧱
+   git clone https://github.com/anishsingh90/1-Decentralised-CrowdFunding-Projects-dApps-.git
+   cd 1-Decentralised-CrowdFunding-Projects-dApps-
