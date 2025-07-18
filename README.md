@@ -1,7 +1,7 @@
 # 🌐 DecentraX — Decentralized Crowdfunding dApp 🚀
 
-Welcome to **DecentraX**, a fully decentralized crowdfunding platform built on the **Ethereum blockchain**.  
-This dApp empowers individuals to raise funds transparently and securely, without third-party interference.
+**Welcome to **DecentraX**, a fully decentralized crowdfunding platform built on the **Ethereum blockchain**.  
+This dApp empowers individuals to raise funds transparently and securely, without third-party interference.**
 
 > 
 ![Crowdfunding dApp UI](https://raw.githubusercontent.com/anishsingh90/1-Decentralised-CrowdFunding-Projects-dApps-/c590ed316b5afd4bf1641c126de369e4260df52e/crowdfunding.png)
@@ -71,3 +71,24 @@ The `createCampaign` function ensures that the **deadline must be in the future*
 ```bash
 git clone https://github.com/anishsingh90/1-Decentralised-CrowdFunding-Projects-dApps-.git
 cd 1-Decentralised-CrowdFunding-Projects-dApps-
+
+```
+### 📦 Install Dependencies
+```
+npm install
+```
+### 🖼️ UI Experience
+🖥️ Create Campaign Page – Enter title, description, target amount, deadline, and upload an image.
+
+📋 Campaign List Page – Browse all campaigns with real-time progress indicators.
+
+📤 Donate ETH – Easily donate to a campaign using Web3 wallet integration.
+
+📈 Donation History – View all donors and their respective donation amounts.
+
+
+### Create a project using this example:
+```bash
+npx thirdweb create --template vite-javascript-starter
+```
+
