@@ -94,3 +94,12 @@ npm install
 npx thirdweb create --template vite-javascript-starter
 ```
 
+## 📬 Connect with Me
+
+👨‍💻 **Anish Kumar**  
+📱 **Mobile**: +91 8368513561  
+📧 **Email**: [anishraaz90@gmail.com](mailto:anishraaz90@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/anish90](https://www.linkedin.com/in/anish90)  
+🐦 **Twitter**: [@AnishSingh9454](https://twitter.com/AnishSingh9454)
+
+
